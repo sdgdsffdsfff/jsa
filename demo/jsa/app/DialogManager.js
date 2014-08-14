@@ -1,0 +1,1 @@
+﻿Class('jsa.app.DialogManager').Prop(function(){});
